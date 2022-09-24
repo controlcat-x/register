@@ -2,7 +2,11 @@
   "description": "controlcat's website",
   "repo": "https://github.com/controlcat-x/ctrlc",
   "owner": {
-    "username": "controlcat-x"
+    "username": "controlcat-x",
+    "email": "JMemish@icloud.com"
   },
+  "record": {
+    "TXT": "hi there"
+  }
   
 }
